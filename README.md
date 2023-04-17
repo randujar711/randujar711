@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **honing my mobile development skills**
 
-- 🌱 I’m will very soon be learning **Node.js and possibly Redux**
+- 🌱 I will very soon be learning **Node.js and possibly Redux**
 
 - 💬 Ask me about 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
