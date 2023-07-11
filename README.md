@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Developer from New York</h3>
 <img align="right" width="400" src="https://i.gifer.com/origin/15/15fd7765f50e95e2d2fc20fb46ade40f_w200.gif" >
 
-- 🔭 I’m currently working on **honing my mobile development skills**
+- 🔭 I’m currently working on **further developing quickPark**
 
 - 🌱 I will very soon be learning **Node.js and possibly Redux**
 
